@@ -105,10 +105,10 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projectstech" element={<ProjectsTech />} />
-            <Route path="/graphicproject" element={<ProjectsGraphic />} /> {/* Specific route */}
-            <Route path="/graphicproject/thumbnails" element={<Thumbnails />} />
-            <Route path="/graphicproject/contentbanners" element={<ContentBanners />} />
-            <Route path="/graphicproject/others" element={<Others />} />
+            <Route path="/projectsgraphic" element={<ProjectsGraphic />} /> {/* Specific route */}
+            <Route path="/projectsgraphic/thumbnails" element={<Thumbnails />} />
+            <Route path="/projectsgraphic/contentbanners" element={<ContentBanners />} />
+            <Route path="/projectsgraphic/others" element={<Others />} />
             <Route path="/about" element={<About />} />
             <Route path="/resume" element={<Resume />} />
             <Route path="*" element={<Navigate to="/" />} />
