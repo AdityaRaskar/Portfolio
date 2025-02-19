@@ -25,8 +25,10 @@
     <p>Redirecting...</p>
 
     <script type="text/javascript">
-      // Redirect to the correct URL
-      window.location.replace("/Portfolio/projectsgraphic");
+// Check if the current path is already the /Portfolio path before redirecting
+if (!window.location.pathname.startsWith("/Portfolio")) {
+    window.location.replace("/Portfolio");
+  }
     </script>
   </body>
 </html>
