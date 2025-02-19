@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.38687ced.css",
+    "main.js": "/Portfolio/static/js/main.ba2a6515.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/phone.png": "/Portfolio/static/media/phone.23a379640972e8b85897.png",
+    "static/media/bus.png": "/Portfolio/static/media/bus.86668366ef98478883eb.png",
+    "static/media/thumb.png": "/Portfolio/static/media/thumb.b33a095d0ce2cef5134d.png",
+    "static/media/bannerpg.png": "/Portfolio/static/media/bannerpg.609f656b44f7b6a72439.png",
+    "static/media/uni.png": "/Portfolio/static/media/uni.e93e739ad0cd638cb564.png",
+    "static/media/Thumbnail bgmi live Aman.png": "/Portfolio/static/media/Thumbnail bgmi live Aman.b44dbf03de00c517d986.png",
+    "static/media/tdm.png": "/Portfolio/static/media/tdm.82edba7c40af065d33b7.png",
+    "static/media/bgmi wwcd joker.png": "/Portfolio/static/media/bgmi wwcd joker.8bf6a965a37333e4f089.png",
+    "static/media/Thumbnail bgmi live mortal.png": "/Portfolio/static/media/Thumbnail bgmi live mortal.8f6ad369b256b1bdc198.png",
+    "static/media/bgmi live joker.png": "/Portfolio/static/media/bgmi live joker.85e2a999279196313cf7.png",
+    "static/media/others.png": "/Portfolio/static/media/others.e1ffdbc28c6c1154f5cd.png",
+    "static/media/snaxmaxx.png": "/Portfolio/static/media/snaxmaxx.f19d6d61d6e35fd6f8d8.png",
+    "static/media/Aditya_Raskar_latest.pdf": "/Portfolio/static/media/Aditya_Raskar_latest.2ae70f27d9387a7af6a4.pdf",
+    "static/media/pwd.png": "/Portfolio/static/media/pwd.0ce0693897fd520f0d0e.png",
+    "static/media/leaf.png": "/Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.9046ceb0bdfe743a7daa.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.38687ced.css.map": "/Portfolio/static/css/main.38687ced.css.map",
+    "main.ba2a6515.js.map": "/Portfolio/static/js/main.ba2a6515.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38687ced.css",
+    "static/js/main.ba2a6515.js"
+  ]
+}
